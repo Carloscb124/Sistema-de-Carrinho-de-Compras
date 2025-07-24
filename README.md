@@ -33,7 +33,7 @@ O objetivo é criar uma aplicação que simule um carrinho de compras, permitind
 
 ## 🧪 Como Executar
 
-git clone https://github.com/seu-usuario/shopee-cart-terminal.git
+git clone [https://github.com/Carloscb124/Sistema-de-Carrinho-de-Compras]
 cd shopee-cart-terminal
 npm install
 node src/index.js
